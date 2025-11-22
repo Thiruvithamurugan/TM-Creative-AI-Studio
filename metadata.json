@@ -1,0 +1,9 @@
+{
+  "name": "Copy of TM Creative AI Studio",
+  "description": "A next-gen multimodal creation platform powered by Gemini 2.5 and 3.0 models. Features include Veo video generation, advanced image editing, live audio conversations, and grounded research tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
